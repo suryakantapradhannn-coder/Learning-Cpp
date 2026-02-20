@@ -1,2 +1,2 @@
 # Learning-Cpp
-Repository where i start my Cpp/C++ learning journey from zero.
+Repository where I start my Cpp/C++ learning journey from zero.
